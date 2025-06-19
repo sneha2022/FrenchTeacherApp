@@ -1,4 +1,4 @@
-# 🇫🇷 French Teacher App
+#French Teacher App
 
 A fun and beginner-friendly Android app designed to help users learn basic French color vocabulary through sound interaction. Tap a color button to instantly hear its pronunciation in French. Built using Java and Android's `MediaPlayer`, this app is perfect for learners and developers alike.
 
